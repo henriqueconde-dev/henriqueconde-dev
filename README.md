@@ -2,12 +2,12 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Desenvolvedor Front-end em formação  
-🚀 Focado em HTML, CSS e JavaScript  
-🎯 Em busca da minha primeira oportunidade na área
+📚 Estudando HTML, CSS e JavaScript  
+🚀 Em busca da minha primeira oportunidade na área de tecnologia  
 
 ---
 
-### 🧠 Tecnologias que estou aprendendo:
+## 🚀 Tecnologias que estou aprendendo:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -17,16 +17,16 @@
 
 ---
 
-### 📁 Meus projetos:
+## 🛠️ Meus projetos
 
-- *(em produção)*
+*(em breve por aqui)*
 
 ---
 
-### 📬 Contato:
+## 📬 Contato
 
-- **E-mail:** [henriquecm.dev@gmail.com](mailto:henriquecm.dev@gmail.com)
-- **LinkedIn:** *(em breve)*
+- 📧 E-mail: [henriquecm.dev@gmail.com](mailto:henriquecm.dev@gmail.com)  
+- 🔗 LinkedIn: *(em construção)*
 
 ---
 
