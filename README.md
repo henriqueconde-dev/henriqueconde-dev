@@ -26,7 +26,7 @@
 ## 📬 Contato
 
 - 📧 E-mail: [henriquecm.dev@gmail.com](mailto:henriquecm.dev@gmail.com)  
-- 🔗 LinkedIn: [Henrique Conde](www.linkedin.com/in/henriqueconde-dev)
+- 🔗 LinkedIn: [Henrique Conde](linkedin.com/in/henriqueconde-dev)
 
 ---
 
